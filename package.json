@@ -1,0 +1,9 @@
+{
+  "name": "Discord-CLI",
+  "version": "0.0.1",
+  "description": "My own rendition of a CLI for Discord.",
+  "author": "meanwhile",
+  "dependencies": {
+    "discord.js": "^6.0.0"
+  }
+}
