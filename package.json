@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/NightmareX91/discord-cli#readme",
   "dependencies": {
+    "blessed": "^0.1.81",
     "discord.js": "github:hydrabolt/discord.js#indev"
   }
 }
