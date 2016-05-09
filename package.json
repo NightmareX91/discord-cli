@@ -1,9 +1,22 @@
 {
-  "name": "Discord-CLI",
+  "name": "discord-cli",
   "version": "0.0.1",
-  "description": "My own rendition of a CLI for Discord.",
-  "author": "meanwhile",
+  "description": "My own rendition of a CLI for Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightmareX91/discord-cli.git"
+  },
+  "author": "meanwhile <meanwhile.rocks>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NightmareX91/discord-cli/issues"
+  },
+  "homepage": "https://github.com/NightmareX91/discord-cli#readme",
   "dependencies": {
-    "discord.js": "^6.0.0"
+    "discord.js": "github:hydrabolt/discord.js#indev"
   }
 }
